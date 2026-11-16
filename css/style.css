@@ -109,8 +109,8 @@ body{
 }
 
 .header .logo img{
-    width: 130%;
-    height: 3rem;
+    width: 180%;
+    height: 7rem;
     top: 0;
     left: 0;
 }
@@ -512,7 +512,7 @@ body{
 .testimonials .testimonial-text h4 {
     font-size: 12px;
     font-weight: 300;
-    text-transform: uppercase;
+    
 }
 
 .testimonials .testimonial-text p {
@@ -857,6 +857,24 @@ body{
         .footer .footer-top .footer-newsletter {
             margin-bottom: 30px;
         }
+
+
+
+
+
+        /* Footer address and email formatting */
+.footer .footer-contact p {
+    text-transform: none;
+}
+
+.footer .footer-contact a {
+    text-transform: none;
+}
+
+
+
+
+        
         
         .footer .footer-top .social-links a {
             font-size: 18px;
@@ -881,7 +899,7 @@ body{
             font-size: 16px;
             font-weight: 700;
             color: #ffffff;
-            text-transform: uppercase;
+            
             position: relative;
             padding-bottom: 12px;
             margin-bottom: 20px;
